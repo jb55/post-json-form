@@ -10,7 +10,7 @@
 
 ## Example
 
-  pbpaste | postjson http://api.mysite.com/endpoint
+    $ pbpaste | postjson http://api.mysite.com/endpoint
 
 ## License
 
